@@ -3,7 +3,7 @@
 # Color end
 end="\033[0m\e[0m"
 
-# Colors in bold
+# Colors
 red="\e[0;31m"
 yellow="\e[0;33m"
 green="\e[0;32m"
